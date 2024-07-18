@@ -11,10 +11,9 @@ Also in our portfolio there are ready-made clickers that we can quickly set up f
 
 Functions:
 
-🤘 Tap - Click for mine coins 
-🚀 Boosts - Daily rewards and Boosts 
+🤘 Learderboard - tap - Click for mine coins 
+🚀 Skin - Daily rewards and Boosts 
 🤝 Referrals - Invite friends and recieve rewards 
-📝 Tasks - Do tasks and earn points 
 You are getting:
 
 A configured bot that is already working

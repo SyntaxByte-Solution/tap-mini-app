@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  background: radial-gradient(circle, rgb(253 131 10) 75%, rgb(254, 212, 1) 100%);
+  /* background-image: url('https://img.freepik.com/premium-vector/abstract-seamless-pattern-small-squares-various-sizes-pixels-black-colors_444390-7713.jpg'); */
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .animated-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+::selection {
+  background: transparent;
+}
+
+/* For Mozilla Firefox */
+::-moz-selection {
+  background: transparent;
+}
+
+img {
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+  user-select: none;
+}
+
+:where(.css-dev-only-do-not-override-1rqnfsa).ant-message .ant-message-notice-wrapper .ant-message-notice-content {
+  display: inline-block;
+  padding: 9px 12px;
+  background: #0000007a !important;
+  color: white !important;
+  backdrop-filter: blur(4px) !important;
+  border-radius: 9px;
+  font-weight: 600;
+  box-shadow: 0 6px 16px 0 rgba(0, 0, 0, 0.08),0 3px 6px -4px rgba(0, 0, 0, 0.12),0 9px 28px 8px rgba(0, 0, 0, 0.05);
+  pointer-events: all;
+}

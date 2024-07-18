@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# tap-mini-app
+Tap Mini App Clicker for Telegram - Copy Tapswap, Notcoin, Hamster | Tap To Earn Telegram
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://i.imgur.com/uJD5zmu.png" alt="Tap Mini App Telegram Clicker - Copy Tapswap, Blum, Hamster" data-canonical-src="https://i.imgur.com/uJD5zmu.png" style="max-width: 100%;">
+Mini App Clicker for Telegram - Copy Tapswap, Notcoin, Hamster
+We create Clicker games in Mini App Telegram.
 
-## Available Scripts
+We can clone and customize popular crypto clicker games like Tapswap, Hamster and Notcoin, or create a hybrid that combines their best features!
 
-In the project directory, you can run:
+Also in our portfolio there are ready-made clickers that we can quickly set up for you and launching such a game will take a short time.
 
-### `npm start`
+Functions:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🤘 Tap - Click for mine coins
+🚀 Boosts - Daily rewards and Boosts
+🤝 Referrals - Invite friends and recieve rewards
+📝 Tasks - Do tasks and earn points
+You are getting:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A configured bot that is already working
+Basic functional (mine-tap / boosts / refferals / tasks)
+Minor design adjustments (change styles / logos)
+Source code
+Example Clicker
 
-### `npm test`
+You can try the starting version of the bot including the basic functionality: 
+We can install ready-made solutions for you, or make you a unique clicker with a unique design.
+Contact : https://t.me/chris_lev11
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+CENPHA:
+  We always work for results
+  Attention to target audience
+  Presence on the most important platforms of the crypto industry
+  Our company Verified Bybit, Pinksale & OKX Partner
